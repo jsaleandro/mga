@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalizaDomestica.Folha.Dominio", "LegalizaDomestica.Folha.Dominio\LegalizaDomestica.Folha.Dominio.csproj", "{59BF7AEA-6041-4E64-B5F2-ADB5D8076A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalizaDomestica.Folha.Web", "LegalizaDomestica.Folha.Web\LegalizaDomestica.Folha.Web.csproj", "{F1444520-5B08-4B80-AE81-2BF0B1507CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalizaDomestica.Folha.UnitTest", "LegalizaDomestica.Folha.UnitTest\LegalizaDomestica.Folha.UnitTest.csproj", "{B101649C-59DC-4FEE-AE7A-C6382EB97C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BF7AEA-6041-4E64-B5F2-ADB5D8076A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BF7AEA-6041-4E64-B5F2-ADB5D8076A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BF7AEA-6041-4E64-B5F2-ADB5D8076A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BF7AEA-6041-4E64-B5F2-ADB5D8076A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1444520-5B08-4B80-AE81-2BF0B1507CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1444520-5B08-4B80-AE81-2BF0B1507CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1444520-5B08-4B80-AE81-2BF0B1507CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1444520-5B08-4B80-AE81-2BF0B1507CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B101649C-59DC-4FEE-AE7A-C6382EB97C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B101649C-59DC-4FEE-AE7A-C6382EB97C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B101649C-59DC-4FEE-AE7A-C6382EB97C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B101649C-59DC-4FEE-AE7A-C6382EB97C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
